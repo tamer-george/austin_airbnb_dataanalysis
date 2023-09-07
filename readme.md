@@ -1,6 +1,6 @@
 ![cover_project](images/header.png)
 
----
+___
 
 ### Following are the roadmap that we aim to answer through our analysis:
 
@@ -18,8 +18,6 @@
          b. Find areas with high number reviews relative to number of properties with sentiment
             i.  Find what amenities are required
             ii. What property types are relevant to these areas
-
-
 
         
 3. Find what populations rent in each area and what type of property they rent
@@ -56,11 +54,11 @@ $10000 price tag are in Windsor Park, Northeast Austin.
 ### Analysis of Data Quality 
 1. Price : The price column contained data in string format with the currency 
 symbol "$" and comma separator attached to it.
-2. Date: We transformed the host_since and date columns to datetime format.
+2. Date: We transformed host_since, first_review, and last_review columns to datetime format.
 3. Dealing with missing values : The data also had null values to preserve all the information, 
 we imputed or dropped the rows containing null values. 
-4. Imputed : we fixed some wrong entry in the host_neighbourhood column,
-   moreover, we segment the property type, the zipcode and the price columns. 
+4. Imputed : we fixed some wrong entry in the host_neighbourhood column.
+   Moreover, we segment the property type, the zipcode and price columns. 
 
          
 
