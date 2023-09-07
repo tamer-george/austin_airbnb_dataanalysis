@@ -42,12 +42,7 @@ found in previous steps
 
 5. Availability and price, seasonality of property, term of rental
 
-6. What makes a host a super host?
-     
-         a. Response rate, review score, ect.
-         b. Is it worth the effort?
-
-------
+_______
   
 ### A quick glance at the data shows that there are:
 
@@ -69,8 +64,7 @@ we imputed or dropped the rows containing null values.
 
          
 
----------------------
-
+____
 
 
 # Exploratory Data Analysis 
@@ -84,7 +78,8 @@ and visualization. we will use :
   * Textual data mining
   * Other interesting insights
   
---------------
+____
+
 # Hypothesis Testing 
 
       Test one: 
@@ -132,10 +127,7 @@ and visualization. we will use :
       p-value is less than alpha(0.05) we dont reject the null hypothesis,
       suggesting there is significant difference.
 
----
-
-
-
+_______
 
 
 ## Spatial Data Analysis
@@ -158,9 +150,6 @@ our hypothesis test.
       The graph follows our previous location ratings by neighbourhood. Now its obvious that the highly rated location
       would also tend to be costly. 
       
-        
-
-
 -------------
 ![number_of_listing](images/property_type_by_area.png)
 
@@ -188,13 +177,14 @@ our hypothesis test.
 
 
       As we can see , Friday and Saturday are more expensive compared to 
-      the other days of the week, perhaps due to higher demand for lodging.
-----
+      the other days of the week,
+      perhaps due to higher demand for lodging.
+______
+
 # Textual Data Mining 
 ______
 ![price](images/top_10_ameinities.png)
 ______
-
 ![price](images/top_10_ameinities_housing.png)
 ______
 
@@ -203,18 +193,13 @@ ______
 ![price](images/top_10_words.png)
 ![price](images/negative_words.png)
 
-
----------
-
-
-
-_________
+______
 
 ## Other interesting insights
 
 ![price](images/linear_regression.png)
 
----------
+______
 
 ## Executive Summary: Airbnb Data Analysis
 
