@@ -216,8 +216,8 @@ This suggests an opportunity to tailor listings and amenities to these preferenc
 
 
 *Amenities and Reviews:*
-4. *Amenities Analysis*: Amenities such as Kitchen, smoked alarm, essentials, hairdryer and Wi-Fi were highly prevalent. 
-listings offering unique features like fire extinguisher and hangers 
+4. *Amenities Analysis*: Amenities such as Kitchen, smoked alarm, essentials, Wi-Fi  and hairdryer were highly prevalent. 
+listings offering unique features like free parking lot 
 stood out and often commanded higher prices.
 
 5. *Review Sentiments*: Sentiment analysis of guest reviews indicated that location, comfortable, and neighborhood 
