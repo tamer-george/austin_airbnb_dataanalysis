@@ -186,11 +186,14 @@ ___________
 
       As we can see , Friday and Saturday are more expensive compared to 
       the other days of the week, perhaps due to higher demand for lodging.
-----
+____
+
 # Textual Data Mining 
 ______
+
 ![price](images/top_10_ameinities.png)
 ______
+
 
 ![price](images/top_10_ameinities_housing.png)
 ______
