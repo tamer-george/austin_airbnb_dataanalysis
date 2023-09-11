@@ -161,8 +161,30 @@ our hypothesis test.
       Showing South Central is the most expensice location followed by East Austin
       Now its obvious that the highly rated location
       would also tend to be costly. 
+
+_________
       
-        
+## Sentiment Analysis  
+
+_________
+
+          import pandas as pd
+          import nltk
+          from nltk.sentiment import SentimentIntensityAnalyzer
+          
+          
+          nltk.download('vader_lexicon')
+          
+          reviews_df = pd.read_csv("reviews.csv")
+          
+          
+          sia = SentimentIntensityAnalyzer()
+          
+          reviews_df["sentiment_scores"] = reviews_df["comments"].apply(lambda x: sia.polarity_scores(str(x)))
+          reviews_df["compound_sentiment"] = reviews_df["sentiment_scores"].apply(lambda x: x["compound"])
+          reviews_df["sentiment"] = reviews_df["compound_sentiment"].apply(lambda score: "Positive" if score >= 0.05 else
+                                                                           ("Negative" if score <= -0.05 else "Neutral"))
+
 
 
 -------------
