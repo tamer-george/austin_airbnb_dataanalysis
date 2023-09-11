@@ -53,7 +53,7 @@ we imputed or dropped the rows containing null values.
 
 
 
-# Exploratory Data Analysis 
+## Exploratory Data Analysis 
 
 We will detail our analysis to answer the questions of interest through exploratory data analysis
 and visualization. we will use :
@@ -66,7 +66,7 @@ and visualization. we will use :
   
 _______
 
-# Hypothesis Testing 
+## Hypothesis Testing 
 
 ______________
 
@@ -167,7 +167,7 @@ our hypothesis test.
 
 -------------
 
-# Price Analysis & Forecast
+## Price Analysis & Forecast
          
 
 ------------
@@ -194,7 +194,9 @@ ___________
       As we can see , Friday and Saturday are more expensive compared to 
       the other days of the week, perhaps due to higher demand for lodging.
 ----
-# Textual Data Mining 
+
+## Textual Data Mining 
+
 ______
 
 ![Top_10_ameinities](images/top_10_ameinities.png)
