@@ -196,10 +196,13 @@ ___________
 ----
 # Textual Data Mining 
 ______
+
 ![Top_10_ameinities](images/top_10_ameinities.png)
+
 ______
 
 ![top_10_house_ameinities](images/top_10_ameinities_housing.png)
+
 ______
 
 ## NLP  
@@ -235,7 +238,7 @@ _________
 *Key Findings*:
 
 1. *High Demand Periods*: Our analysis revealed that the months of Feb to April experienced the highest demand, 
-    with a noticeable peak in March. 
+    with a noticeable peak in Feb. 
 
 2. *Pricing Trends*: We observed that pricing varies significantly by neighborhood,
 with Central Austin listings the highest nightly rates. 
