@@ -84,7 +84,7 @@ ______________
       P-Value = 8.85715622564
       α = 0.05
       
-      Test:
+      Test i:
       if p-value <= a ---> reject H0
       if p-value > a  ---> dont reject H0
       
@@ -103,7 +103,7 @@ ______________
             Ha : property type !=(No Significant) aminities
       
             
-      Test:
+      Test ii:
       if p-value <= a ---> reject H0
       if p-value > a  ---> dont reject H0
       
@@ -130,12 +130,12 @@ ______________
       P-Value = 0.0
       α = 0.05
       
-      Test:
+      Test iii:
       if p-value <= a ---> reject H0
       if p-value > a  ---> dont reject H0
       
       result of the test: 
-      p-value is less than alpha(0.05) we fail to reject the null hypothesis,  suggesting there is
+      p-value is less than alpha(0.05) we reject the null hypothesis,  suggesting there is no
       significant difference in avergae nightly price between super host and not a super host. 
 
 
