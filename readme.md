@@ -64,7 +64,8 @@ and visualization. we will use :
   * Textual data mining
   * Other interesting insights
   
---------------
+_______
+
 # Hypothesis Testing 
 
 ______________
@@ -166,7 +167,7 @@ our hypothesis test.
 
 -------------
 
-# Demand and Price Analysis & Forecast
+# Price Analysis & Forecast
          
 
 ------------
